@@ -1,0 +1,2 @@
+C:/Users/joaoh/source/repos/inventario_qr/android/app/.cxx/Debug/4v506x32/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/joaoh/source/repos/inventario_qr/android/app/.cxx/Debug/4v506x32/armeabi-v7a/CMakeFiles/rebuild_cache.dir

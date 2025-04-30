@@ -1,0 +1,1 @@
+ C:\\Users\\joaoh\\source\\repos\\inventario_qr\\.dart_tool\\flutter_build\\c40a73e4d54eeb56530e9e071f0d1258\\dart_build_result.json: 
